@@ -3,9 +3,10 @@ In the data that is presented throughout this project, you will be able to see
 
 # Why Did We Decide on this Data
 
-Now that mental health is more apparent in our world, we wanted to be able to compare happniess throughout the world and how happiness and life expectancy corelate. 
+Now that mental health is more apparent in our world, we wanted to be able to compare happniess as reported by the World Happiness Organization and how happiness and life expectancy corelate. 
 
-# Getting Started
+# Communication Protocols
+Our team has been in commmunication through Slack and class breakout rooms via Zoom. We also meet twice a week, one hour prior to class and discuss what we have researched and created, therefore we can use class time to work on the next segment of the project. 
 
 ### Dependencies
 
