@@ -22,11 +22,11 @@ During the data exploration phase of the project, our group looked for initially
 During the data analysis phase of the project, we employed a linear regression model to show the trends more specifically, and to give us a prediction of a country’s happiness versus life expectancy if it were to rise or fall. We also used our analysis to create a new country, “Dennysland”, and predict what our life expectancy would be for a reported happiness level.
 
 
-# Communication Protocols
+## Communication Protocols
 Our team has been in commmunication through Slack and class breakout rooms via Zoom. We also meet twice a week, one hour prior to class and discuss what we have researched and created, therefore we can use class time to work on the next segment of the project. 
 
 
-## Machine Learning Process: 
+# Machine Learning Process: 
 
 Data preprocessing - as we chose a data set that is often used and maintained, not much preprocessing was needed. We did explore and make decisions as to which data points we would include, and how to group as needed.
 
@@ -40,7 +40,7 @@ Benefits - linear regression is known to be the easier of the machine learning m
 Drawbacks - linear regression really only tells one story.
 
 
-## Dashboard:
+# Dashboard:
 Tools used -
 Tableau
 PGAdmin
