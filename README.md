@@ -1,5 +1,7 @@
 # Happiness vs Life Expectancy 
-In the data that is presented throughout this project, you will be able to see 
+View presentation here: https://docs.google.com/presentation/d/1_1O2XrzdnD5bw3EybJFovG8bCT8X6GAH73JepdtmGqI/edit?usp=sharing
+# Overview
+In the data that is presented throughout this project, you will be able to see the differences between countries with the highest and lowest life expectancies. In order to identify the differences between countries, machine learning was used to visibly see which countires were affected the most and least. 
 
 # Why Did We Decide on this Data
 
