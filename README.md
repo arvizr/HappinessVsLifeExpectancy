@@ -4,6 +4,9 @@ https://docs.google.com/presentation/d/1_1O2XrzdnD5bw3EybJFovG8bCT8X6GAH73Jepdtm
 ## Dashboard - 
 https://public.tableau.com/app/profile/nimrah.j.kazmi/viz/Book1_16722860951400/HappinessOverview?publish=yes
 
+##Pres. Script/Notes
+https://docs.google.com/document/d/1_91VbFrpEE3s5dt6OCH7YwAWQiTBYiUkIR6EdiN91FI/edit?usp=sharing
+
 # Happiness vs Life Expectancy 
 
 Presentation outline:
